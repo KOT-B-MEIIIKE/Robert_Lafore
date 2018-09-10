@@ -1,6 +1,6 @@
 // circarea.cpp
 // demonstrates floating point variables
-#include <iostream>                           // for cout, etc.
+#include <iostream>                          // for cout, etc.
 using namespace std;
 
 int main()
